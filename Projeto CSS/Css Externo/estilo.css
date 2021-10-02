@@ -1,4 +1,48 @@
-.texto{
-				color: blue;
-				background: red;
-}
+body /* CORPO PRINCIPAL  */
+	{
+		background: #d2d2c1 url('img/fundo.png');
+		font:  16px Arial, sans-serif, Helvetica;
+	}
+
+#principal/*DIVISÃO PRINCIPAL, AONDE OUTRAS DIVS IRÃO RESPEITAR O TAMANHO*/
+
+	{
+		width: 900px;
+
+	}
+
+#menu/*MENU DE NAVEGAÇÃO*/
+
+	{
+		background: #c5c5b2;
+		padding:  10px;
+
+	}
+
+a /*LINKS FORMATADOS*/
+
+	{
+		color: #4b566a;
+		text-decoration: none;
+		font-weight: bold;
+		padding: 5px;
+	}
+
+#conteudo/*FUNDO DOS TEXTOS ABAIXO DA NAVEGAÇÃO*/
+
+	{
+		padding: 10px;
+		background-color: white;
+	}
+#rodape/*RODAPÉ DA PAGINA*/
+
+	{
+
+		text-align: center;
+	}
+h1/*TITULO DO TEXTO DO CONTEUDO*/
+
+	{
+		color: #828271;
+		font-size: 1.2em;
+	}

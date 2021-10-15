@@ -1,5 +1,5 @@
 # -Web-development-0.1
-HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC 
+HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC  e REACT
 
 Esse repositório  servirá de  base de estudo de diversas tecnologias web.
 
